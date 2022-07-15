@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6289510497533'] //ur owner number
-global.ownername = "IRFANEVA" //ur owner name
-global.ytname = "YT: IRFANBOT" //ur yt chanel name
+global.vcardowner = ['6285791677204'] //ur owner number
+global.ownername = "Fαυȥყ" //ur owner name
+global.ytname = "YT: FαυȥყRêålz`𐁘" //ur yt chanel name
 global.socialm = "GitHub: IRFANFF9" //ur github or insta name
 global.location = "Indonesia, Jatim, Probolinggo" //ur location
 
 //bot bomdy 
-global.owner = ['6289510497533']
+global.owner = ['6285791677204']
 global.ownertag = 'ipan' //ur tag number
-global.botname = 'IrfanBot-MD2' //ur bot name
-global.linkz = "https://youtube.com/channel/UCB2FsP3zAMlcfRz7iVs2D6A" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtube.com/channel/UCB2FsP3zAMlcfRz7iVs2D6A" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/IrfanBot-MD2' //script link
+global.botname = 'FαυȥყBOTZ-MD' //ur bot name
+global.linkz = "https://bit.ly/3aH2eCG" //your theme url which will be displayed on whatsapp
+global.websitex = "https://bit.ly/3aH2eCG" //ur website to be displayed
+global.botscript = 'https://bit.ly/3uL0org' //script link
 global.reactmoji = "🗿" //ur menu react emoji
 global.themeemoji = "🗿" //ur theme emoji
-global.packname = "© IRFANFF9" //ur sticker watermark packname
-global.author = "Di Buat Oleh IRFANBOT \n\n\n \n \n\n\n\n\n\n\n\n\n\n\n" //ur sticker watermark author
+global.packname = "© Fαυȥყ" //ur sticker watermark packname
+global.author = "Di Buat Oleh Fαυȥყ \n\n\n \n \n\n\n\n\n\n\n\n\n\n\n" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['6289510497533'] //ur premium numbers
+global.premium = ['6285791677204'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
